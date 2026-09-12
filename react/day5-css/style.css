@@ -1,0 +1,18 @@
+ h1 {
+     color: green;
+     text-align: center;
+ }
+
+#a1 {
+     color: red;
+     text-align: right;
+ }
+
+ #a2 {
+     color: yellow;
+     text-align: right;
+ }
+
+ .demo{
+    background-color: grey;
+ }
